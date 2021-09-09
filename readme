@@ -1,0 +1,6 @@
+instrucciones:
+instalar matplotlib y numpy:
+
+pip install matplotlib
+pip install numpy
+pip install opencv-python
